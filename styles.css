@@ -1,0 +1,62 @@
+body {
+  background-color: #222;
+}
+.body {
+  background-color: #444;
+  height: 100%;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Verdana, Tahoma, sans-serif;
+  color: #bbb;
+  margin: 40px 10%;
+  padding-bottom: 30px;
+}
+#title {
+  padding: 10px;
+  padding-top: 15px;
+  border-bottom: 1px solid gray;
+  width: 90%;
+  margin: auto;
+}
+#short-intro {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  line-height: 30px;
+}
+#image {
+  background-color: #000;
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+#image img {
+  border-radius: 10px;
+  margin: auto;
+  width: 70%;
+}
+#tribute {
+  text-align: left;
+  margin: auto;
+  width: 70%;
+}
+#tribute li {
+  margin: 10px;
+  line-height: 30px;
+}
+#quote {
+  width: 70%;
+  margin: auto;
+  border: 1px solid black;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  line-height: 25px;
+}
+
+#footer {
+  margin-top: 30px;
+}
+#link {
+  color: white;
+}
